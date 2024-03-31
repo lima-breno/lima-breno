@@ -1,4 +1,4 @@
-<h1 align="center">Hello, world! 👋, Eu sou o Breno Lima!</h1>
+<h1 align="center">Hello, world! 👋 Eu sou o Breno Lima!</h1>
 <h3 align="center">Engenheiro de Materiais desbravando a ciência de dados!</h3>
 
 - 🔭 Atualmente estou trabalhando como analista de Dispositivos Médicos [Validação de Produtos Médicos](https://www.mscmed.com.br)
