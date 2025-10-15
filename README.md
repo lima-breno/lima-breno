@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando como **Analista de Dispositivos Médicos** na [MSCMED](https://www.mscmed.com.br)
 
-- 🌱 Sou um entusiasta por dados! Concluí minha **pós-graduação em Ciência de Dados e Big Data pela PUC Minas** e realizei diversos cursos na **Alura**. Criei este repositório para reunir parte da minha jornada de aprendizado. Tornando este um espaço para compartilhar estudos, projetos e experimentos nessa área que tanto me instiga e desperta minha curiosidade.
+- 🌱 Sou um entusiasta por dados! Comecei estudando alguns cursos na **Alura** que me incentivaram meu ingresso na **pós-graduação em Ciência de Dados e Big Data pela PUC Minas**, a qual recém terminei! Criei este repositório para reunir parte da minha jornada de aprendizado. Tornando este um espaço para compartilhar estudos, projetos e experimentos nessa área que tanto me instiga e desperta minha curiosidade.
 
 
 - 📝 Eu escrevo artigos no site [https://medium.com/@breno_lima](https://medium.com/@breno_lima)
