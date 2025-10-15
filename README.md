@@ -31,7 +31,7 @@
 
   <!-- Pandas -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35"/>
   </a>
 
   <!-- NumPy -->
@@ -46,12 +46,12 @@
 
   <!-- Seaborn -->
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="35" height="35"/>
+    <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="seaborn" width="35" height="35"/>
   </a>
 
   <!-- GeoPandas -->
   <a href="https://geopandas.org/" target="_blank" rel="noreferrer">
-    <img src="https://geopandas.org/en/stable/_images/geopandas_logo.svg" alt="geopandas" width="35" height="35"/>
+    <img src="https://raw.githubusercontent.com/geopandas/geopandas/main/doc/source/_static/geopandas_logo.svg" alt="geopandas" width="35" height="35"/>
   </a>
 
   <!-- Folium -->
@@ -69,7 +69,6 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=breno-lima&show_icons=true&locale=en&layout=compact" alt="breno-lima" />
 </p>
-
 
 
 <!--
