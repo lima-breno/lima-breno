@@ -1,7 +1,7 @@
 <h1 align="center">Hello, world! 👋 </h1>
 <h3 align="center"> Eu sou o Breno Lima! Engenheiro de Materiais desbravando a ciência de dados!</h3>
 
-- 🔭 Atualmente estou trabalhando como Analista de [Dispositivos Médicos Validação de Produtos Médicos](https://www.mscmed.com.br)
+- 🔭 Atualmente estou trabalhando como **Analista de Dispositivos Médicos** na [MSCMED](https://www.mscmed.com.br)
 
 - 🌱 Sou um entusiasta por dados! Concluí minha **pós-graduação em Ciência de Dados e Big Data pela PUC Minas** e realizei diversos cursos na **Alura**. Criei este repositório para reunir parte da minha jornada de aprendizado. Tornando este um espaço para compartilhar estudos, projetos e experimentos nessa área que tanto me instiga e desperta minha curiosidade.
 
