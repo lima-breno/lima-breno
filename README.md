@@ -20,7 +20,7 @@
 <a href="https://medium.com/@breno-lima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@breno-lima" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
+<h3 align="left">Linguagem:</h3>
 
 <p align="left">
 
@@ -29,6 +29,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>
   </a>
 
+<h3 align="left">Ferramentas utilizadas:</h3>
   <!-- Pandas -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35"/>
@@ -39,24 +40,34 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="35" height="35"/>
   </a>
 
-  <!-- Matplotlib -->
+  <!-- Matplotlib (corrigido) -->
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" alt="matplotlib" width="35" height="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="35" height="35"/>
   </a>
 
   <!-- Seaborn -->
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="seaborn" width="35" height="35"/>
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="35" height="35"/>
   </a>
 
-  <!-- GeoPandas -->
+  <!-- GeoPandas (corrigido) -->
   <a href="https://geopandas.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/geopandas/geopandas/main/doc/source/_static/geopandas_logo.svg" alt="geopandas" width="35" height="35"/>
+    <img src="https://geopandas.org/en/stable/_static/geopandas_logo.svg" alt="geopandas" width="35" height="35"/>
   </a>
 
   <!-- Folium -->
   <a href="https://python-visualization.github.io/folium/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/python-visualization/folium/main/docs/_static/folium_logo.png" alt="folium" width="35" height="35"/>
+  </a>
+
+  <!-- SciPy -->
+  <a href="https://scipy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" alt="scipy" width="35" height="35"/>
+  </a>
+
+  <!-- Scikit-learn -->
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="35" height="35"/>
   </a>
 
   <!-- SQLite -->
@@ -69,6 +80,7 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=breno-lima&show_icons=true&locale=en&layout=compact" alt="breno-lima" />
 </p>
+  <!-- Geo
 
 
 <!--
