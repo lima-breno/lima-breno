@@ -54,8 +54,8 @@
   </a>
 
   <!-- GeoPandas (corrigido) -->
-  <a href="https://geopandas.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/jorisvandenbossche/geopandas/main/doc/source/_static/geopandas_logo.svg" alt="geopandas" width="35" height="35"/>
+   <a href="https://geopandas.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/geopandas/geopandas/main/doc/source/_static/logo.png" alt="geopandas" width="35" height="35"/>
   </a>
 
   <!-- Folium -->
