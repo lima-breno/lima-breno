@@ -30,6 +30,9 @@
   </a>
 
 <h3 align="left">Ferramentas utilizadas:</h3>
+
+<p align="left">
+
   <!-- Pandas -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35"/>
@@ -40,7 +43,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="35" height="35"/>
   </a>
 
-  <!-- Matplotlib (corrigido) -->
+  <!-- Matplotlib -->
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="35" height="35"/>
   </a>
@@ -52,7 +55,7 @@
 
   <!-- GeoPandas (corrigido) -->
   <a href="https://geopandas.org/" target="_blank" rel="noreferrer">
-    <img src="https://geopandas.org/en/stable/_static/geopandas_logo.svg" alt="geopandas" width="35" height="35"/>
+    <img src="https://raw.githubusercontent.com/jorisvandenbossche/geopandas/main/doc/source/_static/geopandas_logo.svg" alt="geopandas" width="35" height="35"/>
   </a>
 
   <!-- Folium -->
@@ -60,14 +63,14 @@
     <img src="https://raw.githubusercontent.com/python-visualization/folium/main/docs/_static/folium_logo.png" alt="folium" width="35" height="35"/>
   </a>
 
-  <!-- SciPy -->
+  <!-- SciPy (corrigido) -->
   <a href="https://scipy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" alt="scipy" width="35" height="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="35" height="35"/>
   </a>
 
   <!-- Scikit-learn -->
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="35" height="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="35" height="35"/>
   </a>
 
   <!-- SQLite -->
@@ -75,10 +78,6 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="35" height="35"/>
   </a>
 
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=breno-lima&show_icons=true&locale=en&layout=compact" alt="breno-lima" />
 </p>
   <!-- Geo
 
