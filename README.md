@@ -23,63 +23,35 @@
 <h3 align="left">Linguagem:</h3>
 
 <p align="left">
-
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>
-  </a>
-
-<h3 align="left">Ferramentas utilizadas:</h3>
-
-<p align="left">
-
-  <!-- Pandas -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
-
-  <!-- NumPy -->
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="35" height="35"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
   </a>
-
-  <!-- Matplotlib -->
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="35" height="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
   </a>
-
-  <!-- Seaborn -->
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="35" height="35"/>
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
-
-  <!-- GeoPandas (corrigido) -->
-   <a href="https://geopandas.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/geopandas/geopandas/main/doc/source/_static/logo.png" alt="geopandas" width="35" height="35"/>
+  <a href="https://geopandas.org/" target="_blank" rel="noreferrer">
+    <img src="https://geopandas.org/en/stable/_images/geopandas_logo.png" alt="geopandas" width="40" height="40"/>
   </a>
-
-  <!-- Folium -->
   <a href="https://python-visualization.github.io/folium/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/python-visualization/folium/main/docs/_static/folium_logo.png" alt="folium" width="35" height="35"/>
+    <img src="https://python-visualization.github.io/folium/_images/folium_logo.png" alt="folium" width="40" height="40"/>
   </a>
-
-  <!-- SciPy (corrigido) -->
   <a href="https://scipy.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="35" height="35"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" alt="scipy" width="40" height="40"/>
   </a>
-
-  <!-- Scikit-learn -->
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="35" height="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
   </a>
-
-  <!-- SQLite -->
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="35" height="35"/>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
-
-</p>
-  <!-- Geo
+  <a href="https://sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 
 
 <!--
