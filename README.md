@@ -10,7 +10,7 @@
 
 - 📫 Você me acha no e-mail **breno.lima89@hotmail.com**
 
-- 📄 Conheça sobre as minhas experiências [https://www.linkedin.com/in/breno-lima-a9677952/](https://www.linkedin.com/in/breno-lima-a9677952/)
+- 📄 Conheça sobre as minhas experiências [https://www.linkedin.com/in/breno-lima-a9677952/]([(https://www.linkedin.com/in/brenolimams)])
 
 
 <h3 align="left">Conecte-se comigo:</h3>
