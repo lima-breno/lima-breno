@@ -6,11 +6,11 @@
 - 🌱 Sou um entusiasta por dados! Comecei estudando alguns cursos na **Alura** que incentivaram meu ingresso na **pós-graduação em Ciência de Dados e Big Data pela PUC Minas**, a qual terminei recentemente! Criei este repositório para reunir parte da minha jornada de aprendizado. Tornando este um espaço para compartilhar estudos, projetos e experimentos nessa área que tanto instiga e desperta minha curiosidade.
 
 
-- 📝 Eu escrevo artigos no site [https://medium.com/@breno_lima](https://medium.com/@breno_lima)
+- 📝 Eu escrevo artigos no site [medium.com/@breno_lima](https://medium.com/@breno_lima)
 
 - 📫 Você me acha no e-mail **breno.lima89@hotmail.com**
 
-- 📄 Conheça sobre as minhas experiências https://www.linkedin.com/in/brenolimams([(https://www.linkedin.com/in/brenolimams)])
+- 📄 Conheça sobre as minhas experiências [linkedin.com/in/brenolimams](https://www.linkedin.com/in/brenolimams)
 
 
 <h3 align="left">Conecte-se comigo:</h3>
