@@ -1,4 +1,4 @@
-<h1 align="center">Hello, world! 👋 </h1>
+<h1 align="center"> Olá! 👋 </h1>
 <h3 align="center"> Eu sou o Breno Lima! Engenheiro de Materiais desbravando a ciência de dados!</h3>
 
 - 🔭 Atualmente estou trabalhando como **Analista de Dispositivos Médicos** na [MSCMED](https://www.mscmed.com.br) e busco uma transição de carreira para a área de dados.
@@ -6,19 +6,10 @@
 - 🌱 Sou um entusiasta por dados! Comecei estudando alguns cursos na **Alura** que incentivaram meu ingresso na **pós-graduação em Ciência de Dados e Big Data pela PUC Minas**, a qual terminei recentemente! Criei este repositório para reunir parte da minha jornada de aprendizado. Tornando este um espaço para compartilhar estudos, projetos e experimentos nessa área que tanto instiga e desperta minha curiosidade.
 
 
-- 📝 Eu escrevo artigos no site [medium.com/@breno_lima](https://medium.com/@breno_lima)
-
 - 📫 Você me acha no e-mail **breno.lima89@hotmail.com**
 
 - 📄 Conheça sobre as minhas experiências [linkedin.com/in/brenolimams](https://www.linkedin.com/in/brenolimams)
 
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/breno-lima-a9677952/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/breno-lima-a9677952/" height="30" width="40" /></a>
-<a href="https://instagram.com//lima.bren0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="/lima.bren0" height="30" width="40" /></a>
-<a href="https://medium.com/@breno-lima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@breno-lima" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Ferramentas e bibliotecas:</h3>
 <p align="left">
