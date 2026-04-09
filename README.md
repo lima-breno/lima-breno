@@ -25,13 +25,7 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
-  
-  <!-- folium (sem logo estável) -> badge -->
-  <a href="https://python-visualization.github.io/folium/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Folium-00A650?style=for-the-badge&logo=leaflet&logoColor=white" alt="folium" height="28"/>
-  </a>
-
-  <!-- scikit-learn -->
+    <!-- scikit-learn -->
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
   </a>
