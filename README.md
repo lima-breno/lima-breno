@@ -1,14 +1,13 @@
 <h1 align="center"> Olá! 👋 </h1>
 <h3 align="center"> Eu sou o Breno Lima! Engenheiro de Materiais desbravando a ciência de dados!</h3>
 
-- 🔭 Atualmente estou trabalhando como **Analista de Dispositivos Médicos** na [MSCMED](https://www.mscmed.com.br) e busco uma transição de carreira para a área de dados.
-
 - 🌱 Sou um entusiasta por dados! Comecei estudando alguns cursos na **Alura** que incentivaram meu ingresso na **pós-graduação em Ciência de Dados e Big Data pela PUC Minas**, a qual terminei recentemente! Criei este repositório para reunir parte da minha jornada de aprendizado. Tornando este um espaço para compartilhar estudos, projetos e experimentos nessa área que tanto instiga e desperta minha curiosidade.
 
 
 - 📫 Você me acha no e-mail **breno.lima89@hotmail.com**
+- 📞 Você me acha no celular **48 99632 0600**
 
-- 📄 Conheça sobre as minhas experiências [linkedin.com/in/brenolimams](https://www.linkedin.com/in/brenolimams)
+- 📄 Conheça sobre as minhas experiências [linkedin.com/in/brenolimadata](https://www.linkedin.com/in/brenolimadata)
 
 
 <h3 align="left">Ferramentas e bibliotecas:</h3>
@@ -26,18 +25,10 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
-  <a href="https://geopandas.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/geopandas/geopandas/main/doc/source/_static/geopandas_icon.png" alt="geopandas" width="40" height="40"/>
-  </a>
-
+  
   <!-- folium (sem logo estável) -> badge -->
   <a href="https://python-visualization.github.io/folium/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Folium-00A650?style=for-the-badge&logo=leaflet&logoColor=white" alt="folium" height="28"/>
-  </a>
-
-  <!-- scipy (fonte estável alternativa) -->
-  <a href="https://scipy.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/scipy/scipy-icon.svg" alt="scipy" width="40" height="40"/>
   </a>
 
   <!-- scikit-learn -->
@@ -54,11 +45,6 @@
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-
-  <!-- NLP -->
-  <a href="https://spacy.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/spacyio/spacyio-icon.svg" alt="spacy" width="40" height="40"/>
   </a>
 
   <!-- NLTK e VADER (sem logo oficial estável) -> badges -->
