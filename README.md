@@ -10,7 +10,7 @@
 - 📄 Conheça sobre as minhas experiências [linkedin.com/in/brenolimadata](https://www.linkedin.com/in/brenolimadata)
 
 
-<h3 align="left">Ferramentas e bibliotecas:</h3>
+<h3 align="left">Algumas das ferramentas e bibliotecas utilizadas:</h3>
 <p align="left">
   <!-- stack de dados científicos -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
