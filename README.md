@@ -1,7 +1,7 @@
 <h1 align="center"> Olá! 👋 </h1>
 <h3 align="center"> Eu sou o Breno Lima! Engenheiro de Materiais desbravando a ciência de dados!</h3>
 
-- 🌱 Sou um entusiasta por dados! Comecei estudando alguns cursos na **Alura** que incentivaram meu ingresso na **pós-graduação em Ciência de Dados e Big Data pela PUC Minas**, a qual terminei recentemente! Criei este repositório para reunir parte da minha jornada de aprendizado. Tornando este um espaço para compartilhar estudos, projetos e experimentos nessa área que tanto instiga e desperta minha curiosidade.
+- 🌱 Entusiasta de dados com formação em Ciência de Dados e Big Data pela PUC Minas. Este repositório reúne parte da minha jornada na área, com projetos, estudos e experimentos focados em análise, integração e aplicação prática de dados.
 
 
 - 📫 Você me acha no e-mail **breno.lima89@hotmail.com**
